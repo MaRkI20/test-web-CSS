@@ -66,10 +66,11 @@ body {
 /* Sidebar/left column */
 .side {
   flex: 30%;
-  background-color: black; /* změna barvy pozadí na černou */
-  color: white; /* změna barvy textu na bílou */
-  padding: 20px;
+  background-color: black;
+  color: white;
+  padding: 40px; /* zvětšíme vnitřní okraj na 40px */
 }
+
 
 
 /* Main column */
