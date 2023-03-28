@@ -97,8 +97,9 @@ body {
   margin-bottom: 20px;
   padding: 20px;
   background-color: #fff;
-  border: 1px solid #ccc;
+  border: 2px solid #ccc; /* zvýšíme tloušťku ohraničení na 2px */
 }
+
 
 /* Styles for the post heading */
 .post h2 {
