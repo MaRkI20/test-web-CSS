@@ -90,7 +90,7 @@ body {
 /* Center the text */
 .footer p {
   text-align: center;
-  font-size: 14px;
+  font-size: 20px;
   color: #d8d8d8;
 }
 
@@ -99,7 +99,7 @@ body {
   margin-bottom: 20px;
   padding: 20px;
   background-color: #fff;
-  border: 2px solid #ccc; /* zvýšíme tloušťku ohraničení na 2px */
+  border: 10px solid #ccc; /* zvýšíme tloušťku ohraničení na 2px */
 }
 
 
