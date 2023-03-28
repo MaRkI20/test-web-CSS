@@ -47,9 +47,10 @@ body {
 
 /* Change color on hover */
 .navbar a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #8B008B; /* změna barvy pozadí na tmavě fialovou */
+  color: white; /* změna barvy textu na bílou */
 }
+
 
 /* Active/current link */
 .navbar a.active {
